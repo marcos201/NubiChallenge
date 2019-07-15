@@ -1,0 +1,14 @@
+C:\Users\marko\source\repos\NubiChallengeApi\NubiChallengeApi\bin\Debug\netcoreapp2.1\NubiChallengeApi.deps.json
+C:\Users\marko\source\repos\NubiChallengeApi\NubiChallengeApi\bin\Debug\netcoreapp2.1\NubiChallengeApi.runtimeconfig.json
+C:\Users\marko\source\repos\NubiChallengeApi\NubiChallengeApi\bin\Debug\netcoreapp2.1\NubiChallengeApi.runtimeconfig.dev.json
+C:\Users\marko\source\repos\NubiChallengeApi\NubiChallengeApi\bin\Debug\netcoreapp2.1\NubiChallengeApi.dll
+C:\Users\marko\source\repos\NubiChallengeApi\NubiChallengeApi\obj\Debug\netcoreapp2.1\NubiChallengeApi.csproj.CoreCompileInputs.cache
+C:\Users\marko\source\repos\NubiChallengeApi\NubiChallengeApi\obj\Debug\netcoreapp2.1\NubiChallengeApi.RazorAssemblyInfo.cache
+C:\Users\marko\source\repos\NubiChallengeApi\NubiChallengeApi\obj\Debug\netcoreapp2.1\NubiChallengeApi.RazorAssemblyInfo.cs
+C:\Users\marko\source\repos\NubiChallengeApi\NubiChallengeApi\obj\Debug\netcoreapp2.1\NubiChallengeApi.AssemblyInfoInputs.cache
+C:\Users\marko\source\repos\NubiChallengeApi\NubiChallengeApi\obj\Debug\netcoreapp2.1\NubiChallengeApi.AssemblyInfo.cs
+C:\Users\marko\source\repos\NubiChallengeApi\NubiChallengeApi\obj\Debug\netcoreapp2.1\NubiChallengeApi.RazorTargetAssemblyInfo.cache
+C:\Users\marko\source\repos\NubiChallengeApi\NubiChallengeApi\bin\Debug\netcoreapp2.1\NubiChallengeApi.pdb
+C:\Users\marko\source\repos\NubiChallengeApi\NubiChallengeApi\obj\Debug\netcoreapp2.1\NubiChallengeApi.dll
+C:\Users\marko\source\repos\NubiChallengeApi\NubiChallengeApi\obj\Debug\netcoreapp2.1\NubiChallengeApi.pdb
+C:\Users\marko\source\repos\NubiChallengeApi\NubiChallengeApi\obj\Debug\netcoreapp2.1\NubiChallengeApi.csprojAssemblyReference.cache
