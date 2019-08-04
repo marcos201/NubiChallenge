@@ -1,0 +1,17 @@
+C:\Users\marko\source\repos\Nubi\NubiChallengeApiTests\NubiChallengeApi.IntegrationTests\NubiChallengeApi.IntegrationTests\obj\Debug\netcoreapp2.1\NubiChallengeApi.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\marko\source\repos\Nubi\NubiChallengeApiTests\NubiChallengeApi.IntegrationTests\NubiChallengeApi.IntegrationTests\obj\Debug\netcoreapp2.1\NubiChallengeApi.IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\marko\source\repos\Nubi\NubiChallengeApiTests\NubiChallengeApi.IntegrationTests\NubiChallengeApi.IntegrationTests\obj\Debug\netcoreapp2.1\NubiChallengeApi.IntegrationTests.AssemblyInfo.cs
+C:\Users\marko\source\repos\Nubi\NubiChallengeApiTests\NubiChallengeApi.IntegrationTests\NubiChallengeApi.IntegrationTests\obj\Debug\netcoreapp2.1\NubiChallengeApi.IntegrationTests.csprojAssemblyReference.cache
+C:\Users\marko\source\repos\Nubi\NubiChallengeApiTests\NubiChallengeApi.IntegrationTests\NubiChallengeApi.IntegrationTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\marko\source\repos\Nubi\NubiChallengeApiTests\NubiChallengeApi.IntegrationTests\NubiChallengeApi.IntegrationTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\marko\source\repos\Nubi\NubiChallengeApiTests\NubiChallengeApi.IntegrationTests\NubiChallengeApi.IntegrationTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\marko\source\repos\Nubi\NubiChallengeApiTests\NubiChallengeApi.IntegrationTests\NubiChallengeApi.IntegrationTests\bin\Debug\netcoreapp2.1\NubiChallengeApi.IntegrationTests.deps.json
+C:\Users\marko\source\repos\Nubi\NubiChallengeApiTests\NubiChallengeApi.IntegrationTests\NubiChallengeApi.IntegrationTests\bin\Debug\netcoreapp2.1\NubiChallengeApi.IntegrationTests.runtimeconfig.json
+C:\Users\marko\source\repos\Nubi\NubiChallengeApiTests\NubiChallengeApi.IntegrationTests\NubiChallengeApi.IntegrationTests\bin\Debug\netcoreapp2.1\NubiChallengeApi.IntegrationTests.runtimeconfig.dev.json
+C:\Users\marko\source\repos\Nubi\NubiChallengeApiTests\NubiChallengeApi.IntegrationTests\NubiChallengeApi.IntegrationTests\bin\Debug\netcoreapp2.1\NubiChallengeApi.IntegrationTests.dll
+C:\Users\marko\source\repos\Nubi\NubiChallengeApiTests\NubiChallengeApi.IntegrationTests\NubiChallengeApi.IntegrationTests\bin\Debug\netcoreapp2.1\NubiChallengeApi.IntegrationTests.pdb
+C:\Users\marko\source\repos\Nubi\NubiChallengeApiTests\NubiChallengeApi.IntegrationTests\NubiChallengeApi.IntegrationTests\bin\Debug\netcoreapp2.1\NubiChallengeApi.dll
+C:\Users\marko\source\repos\Nubi\NubiChallengeApiTests\NubiChallengeApi.IntegrationTests\NubiChallengeApi.IntegrationTests\bin\Debug\netcoreapp2.1\NubiChallengeApi.pdb
+C:\Users\marko\source\repos\Nubi\NubiChallengeApiTests\NubiChallengeApi.IntegrationTests\NubiChallengeApi.IntegrationTests\obj\Debug\netcoreapp2.1\NubiChallengeApi.IntegrationTests.csproj.CopyComplete
+C:\Users\marko\source\repos\Nubi\NubiChallengeApiTests\NubiChallengeApi.IntegrationTests\NubiChallengeApi.IntegrationTests\obj\Debug\netcoreapp2.1\NubiChallengeApi.IntegrationTests.dll
+C:\Users\marko\source\repos\Nubi\NubiChallengeApiTests\NubiChallengeApi.IntegrationTests\NubiChallengeApi.IntegrationTests\obj\Debug\netcoreapp2.1\NubiChallengeApi.IntegrationTests.pdb

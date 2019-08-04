@@ -12651,11 +12651,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marko\\source\\repos\\NubiChallengeApi\\NubiChallengeApi\\NubiChallengeApi.csproj",
+      "projectUniqueName": "C:\\Users\\marko\\source\\repos\\Nubi\\NubiChallengeApi\\NubiChallengeApi\\NubiChallengeApi.csproj",
       "projectName": "NubiChallengeApi",
-      "projectPath": "C:\\Users\\marko\\source\\repos\\NubiChallengeApi\\NubiChallengeApi\\NubiChallengeApi.csproj",
+      "projectPath": "C:\\Users\\marko\\source\\repos\\Nubi\\NubiChallengeApi\\NubiChallengeApi\\NubiChallengeApi.csproj",
       "packagesPath": "C:\\Users\\marko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marko\\source\\repos\\NubiChallengeApi\\NubiChallengeApi\\obj\\",
+      "outputPath": "C:\\Users\\marko\\source\\repos\\Nubi\\NubiChallengeApi\\NubiChallengeApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

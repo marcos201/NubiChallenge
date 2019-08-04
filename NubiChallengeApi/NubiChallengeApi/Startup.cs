@@ -1,17 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Builder;
+﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Options;
-using Microsoft.EntityFrameworkCore;
-using NubiChallengeApi.Models;
+using NubiChallengeApi.Core.Interfaces.Repositories;
+using NubiChallengeApi.Data;
+using NubiChallengeApi.Data.Repositories;
 using Swashbuckle.AspNetCore.Swagger;
 
 namespace NubiChallengeApi
@@ -33,7 +28,10 @@ namespace NubiChallengeApi
             services.AddDbContext<NubiChallengeContext>(options =>
                     options.UseSqlServer(Configuration.GetConnectionString("NubiChallengeContext")));
 
-            services.AddSwaggerGen(c => {
+            services.AddScoped<IUserRepository, UserRepository>();
+
+            services.AddSwaggerGen(c =>
+            {
                 c.SwaggerDoc("v1", new Info { Title = "Nubimetrics API", Version = "V1" });
             });
 
@@ -55,7 +53,8 @@ namespace NubiChallengeApi
             app.UseMvc();
 
             app.UseSwagger();
-            app.UseSwaggerUI(c => {
+            app.UseSwaggerUI(c =>
+            {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "post API V1");
             });
         }
