@@ -16,11 +16,6 @@ namespace NubiChallengeApi.Data
 
         public DbSet<User> User { get; set; }
 
-        /*protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlite("Data Source=players.db");
-        }*/
-
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<User>().HasData(
